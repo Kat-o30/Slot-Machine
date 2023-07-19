@@ -1,1 +1,1 @@
-# JavaScript-Projects
+# Slot Machine
